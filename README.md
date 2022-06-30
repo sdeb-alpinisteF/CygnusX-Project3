@@ -21,5 +21,5 @@ Many of the outflows in our study were previously unknown, and their correspondi
 
 4. Triggering influence of local stellar feedback on protostar formation - 
 
-Cygnus X is a site for many young stars and a rich deposit of molecular gas raises the question of whether there is evidence of triggered star formation in this region. I discussed such a specific case of potential triggering () In this work I look into any potential association between radiative feedback and protostellar formation. Using Support Vector Machine I find there is support for triggering.
+Cygnus X is a site for many young stars and a rich deposit of molecular gas raises the question of whether there is evidence of triggered star formation in this region. I discussed such a specific case of potential triggering () In this work I look into any potential association between radiative feedback and protostellar formation. Using Support Vector Machine I find there is evidence for triggering.
 
